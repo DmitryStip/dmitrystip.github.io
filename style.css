@@ -352,6 +352,8 @@ body {
 }
 
 .contact-me {
+  text-align: center;
+  display: inline-block;
   border: 0;
   outline: none;
   background: linear-gradient(to right, rgba(83, 200, 239, 0.8) 0%, rgba(81, 106, 204, 0.8) 96%);
