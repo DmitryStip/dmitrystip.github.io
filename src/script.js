@@ -1,3 +1,4 @@
+
 const buttons = document.querySelectorAll(".card-buttons button");
 const sections = document.querySelectorAll(".card-section");
 const card = document.querySelector(".card");
@@ -18,3 +19,4 @@ const handleButtonClick = e => {
 buttons.forEach(btn => {
   btn.addEventListener("click", handleButtonClick);
 });
+
